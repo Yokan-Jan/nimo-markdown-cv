@@ -7,7 +7,7 @@ phone:
   text: 18814122684
 ---
 
-## 詹宇坤
+# 詹宇坤
 
 <!--
 include contact information from the front matter
@@ -59,17 +59,14 @@ WebAPI”来构建地图，支持自定义管理地图图块以及大头针等�
 - **_组内技术分享_**<br>
 组内技术分享《设计模式之工厂模式》、《OpenGL模板测试》。
 
-----
+
 ## 其他
 - **_语言_：** 英文（CET-6）、日语（N3）
-- **_技能_：** 熟悉Python语法，使用过部分拓展库如PIL、Request等
-了解Cocos引擎及OpenGL的机制
-接触过Jenkins、TexturePacker等工具
-能够使用Markdown进行文档编辑
-
-## Service
-
-Research Experiences for Undergraduates in Software Engineering (REUSE) Program Admission Committee `CMU, 2019`
+- **_技能_：** 
+	- 编程语言：Python、Typescript、C#、Lua
+	- 引擎：Cocos Creator、Unity、Godot
+	- 其他工具：TexturePacker、Jenkins
+	- 对OpenGL、设计模式有一定了解
 
 <!-- ### Footer
 
