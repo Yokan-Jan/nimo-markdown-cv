@@ -1,7 +1,8 @@
 ---
 layout: cv
 title: Yukun Zhan's CV
-email: 455073646@qq.com
+email:
+  text: 455073646@qq.com
 phone: 18814122684
 ---
 
