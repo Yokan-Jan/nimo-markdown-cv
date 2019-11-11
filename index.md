@@ -3,8 +3,8 @@ layout: cv
 title: Wode "Nimo" Ni
 email:
   text: 455073646@qq.com
-phone:
-  text: 18814122684
+phone: 18814122684
+
 ---
 
 # 詹宇坤
