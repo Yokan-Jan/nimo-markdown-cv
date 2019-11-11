@@ -6,7 +6,7 @@ email:
 phone: 18814122684
 ---
 
-# 詹宇坤（Kula）
+# 詹宇坤(Kula)
 
 <!--
 include contact information from the front matter
