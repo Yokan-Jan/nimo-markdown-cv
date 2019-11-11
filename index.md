@@ -3,11 +3,11 @@ layout: cv
 title: Wode "Nimo" Ni
 email:
   text: 455073646@qq.com
-phone: 18814122684
-
+phone:
+  text: 18814122684
 ---
 
-# 詹宇坤
+## 詹宇坤
 
 <!--
 include contact information from the front matter
@@ -26,6 +26,19 @@ Supported arguments:
 - 数字媒体技术
 
 ## 工作经历
+### **经纬网络（H5游戏）** `2019.07 - 至今`
+- **定制UI框架**<br>
+结合Cocos Creator特性实现UI管理器，支持异步加载Loading动画，通用Popup的弹出动画，遮罩管理。
+- **定制按钮组件**<br>
+在原生按钮的基础上支持防连点功能和长按功能。
+- **定制ListView组件**<br>
+为长列表需求支持虚拟列表和分帧加载，提高加载效率，一键拖拽到ScrollView下即可使用。
+
+### **吉比特（M68项目）** `2019.03 - 2019.06`
+- **Unity插件-ExcelToLua**<br>
+策划工具，可在编辑器中将Excel表格转成Lua文件，支持单选、多选操作。
+- **Unity插件-资源分类工具**<br>
+美术工具，可在编辑器中批量分类资源，根据文件格式按规则批量改名，划分到不同文件夹下。
 
 ### **多益网络（神武3手游）** `2017.07 - 2019.02`
 
@@ -46,30 +59,13 @@ WebAPI”来构建地图，支持自定义管理地图图块以及大头针等�
 - **_组内技术分享_**<br>
 组内技术分享《设计模式之工厂模式》、《OpenGL模板测试》。
 
-## Advising
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-## Honors & Awards
-
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+----
+## 其他
+- **_语言_：** 英文（CET-6）、日语（N3）
+- **_技能_：** 熟悉Python语法，使用过部分拓展库如PIL、Request等
+了解Cocos引擎及OpenGL的机制
+接触过Jenkins、TexturePacker等工具
+能够使用Markdown进行文档编辑
 
 ## Service
 
