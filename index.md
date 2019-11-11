@@ -27,20 +27,28 @@ Supported arguments:
 
 ## 工作经历
 
-### **多益网络** `2017.07 - 2019.02`
+### **多益网络（神武3手游）** `2017.07 - 2019.02`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_优化游戏地图资源格式_<br>
+分平台对地图使用压缩纹理，iOS使用 PVR+TC4，安卓使用 ETC1+PKM。
+成果：物理容量下降 80%，占用内存下降75％，加载速度大幅提升。
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+_维护屏蔽字检测系统_<br>
+接入公共屏蔽字检测模块，建立项目字库，并在原有基础上，定制项目自用的
+整句屏蔽功能。
+成果：过滤大部分广告语、敏感语，绿化游戏社交环境。
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+_异型屏适配_<br>
+建立并维护异性屏导表，提供通用适配接口，供其他同事使用。
+成果：支持策划跟进新机型适配，且方便其他开发人员使用。
 
-### **AsiaInfo** `2015.6 - 2015.8`
+_LBS玩法定制方案_<br>
+在不可使用高德 SDK的前提下，贡献了新的方案来支持 LBS玩法，使用“高德
+WebAPI”来构建地图，支持自定义管理地图图块以及大头针等对象的生命周期。
+成果：在不使用高德 SDK的情况下，基本满足 LBS玩法的开发需求。
 
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+_组内技术分享_<br>
+组内技术分享《设计模式之工厂模式》、《OpenGL模板测试》。
 
 ## Advising
 
